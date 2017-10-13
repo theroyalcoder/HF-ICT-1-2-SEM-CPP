@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anuuthomson/ClionProjects/HF-ICT-PG-uebungen/27.1_Static/MyStatic.cpp
+MyStatic.h
+/Users/anuuthomson/ClionProjects/HF-ICT-PG-uebungen/27.1_Static/MyStatic.h
+
+/Users/anuuthomson/ClionProjects/HF-ICT-PG-uebungen/27.1_Static/MyStatic.h
+iostream
+-
+
+/Users/anuuthomson/ClionProjects/HF-ICT-PG-uebungen/27.1_Static/main.cpp
+MyStatic.h
+/Users/anuuthomson/ClionProjects/HF-ICT-PG-uebungen/27.1_Static/MyStatic.h
+

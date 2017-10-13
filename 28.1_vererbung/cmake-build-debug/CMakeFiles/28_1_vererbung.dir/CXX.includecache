@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anuuthomson/ClionProjects/28.1_vererbung/main.cpp
+iostream
+-
+person.h
+/Users/anuuthomson/ClionProjects/28.1_vererbung/person.h
+man.h
+/Users/anuuthomson/ClionProjects/28.1_vererbung/man.h
+woman.h
+/Users/anuuthomson/ClionProjects/28.1_vererbung/woman.h
+
+/Users/anuuthomson/ClionProjects/28.1_vererbung/man.cpp
+man.h
+/Users/anuuthomson/ClionProjects/28.1_vererbung/man.h
+
+/Users/anuuthomson/ClionProjects/28.1_vererbung/man.h
+person.h
+/Users/anuuthomson/ClionProjects/28.1_vererbung/person.h
+
+/Users/anuuthomson/ClionProjects/28.1_vererbung/person.cpp
+person.h
+/Users/anuuthomson/ClionProjects/28.1_vererbung/person.h
+
+/Users/anuuthomson/ClionProjects/28.1_vererbung/person.h
+iostream
+-
+
+/Users/anuuthomson/ClionProjects/28.1_vererbung/woman.cpp
+woman.h
+/Users/anuuthomson/ClionProjects/28.1_vererbung/woman.h
+
+/Users/anuuthomson/ClionProjects/28.1_vererbung/woman.h
+person.h
+/Users/anuuthomson/ClionProjects/28.1_vererbung/person.h
+

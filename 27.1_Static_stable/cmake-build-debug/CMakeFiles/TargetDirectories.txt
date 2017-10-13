@@ -1,0 +1,3 @@
+/Users/anuuthomson/ClionProjects/27.1_Static_stable/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anuuthomson/ClionProjects/27.1_Static_stable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/anuuthomson/ClionProjects/27.1_Static_stable/cmake-build-debug/CMakeFiles/27_1_Static_stable.dir

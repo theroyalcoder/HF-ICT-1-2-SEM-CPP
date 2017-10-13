@@ -1,0 +1,3 @@
+/Users/anuuthomson/ClionProjects/28.1_vererbung/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anuuthomson/ClionProjects/28.1_vererbung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/anuuthomson/ClionProjects/28.1_vererbung/cmake-build-debug/CMakeFiles/28_1_vererbung.dir

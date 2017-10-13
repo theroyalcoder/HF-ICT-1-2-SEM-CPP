@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anuuthomson/ClionProjects/t23/Point.cpp
+Point.h
+/Users/anuuthomson/ClionProjects/t23/Point.h
+
+/Users/anuuthomson/ClionProjects/t23/Point.h
+iostream
+/Users/anuuthomson/ClionProjects/t23/iostream
+
+/Users/anuuthomson/ClionProjects/t23/main.cpp
+Point.h
+/Users/anuuthomson/ClionProjects/t23/Point.h
+

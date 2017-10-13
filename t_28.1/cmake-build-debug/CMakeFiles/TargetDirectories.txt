@@ -1,0 +1,3 @@
+/Users/anuuthomson/ClionProjects/t_28.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/anuuthomson/ClionProjects/t_28.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anuuthomson/ClionProjects/t_28.1/cmake-build-debug/CMakeFiles/t_28_1.dir

@@ -1,0 +1,3 @@
+/Users/anuuthomson/ClionProjects/15.2_ProgrammAnalysieren/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anuuthomson/ClionProjects/15.2_ProgrammAnalysieren/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/anuuthomson/ClionProjects/15.2_ProgrammAnalysieren/cmake-build-debug/CMakeFiles/15_2_ProgrammAnalysieren.dir

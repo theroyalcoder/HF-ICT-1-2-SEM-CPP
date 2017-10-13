@@ -1,0 +1,3 @@
+/Users/anuuthomson/ClionProjects/22.2_Kopierkonstruktor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anuuthomson/ClionProjects/22.2_Kopierkonstruktor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/anuuthomson/ClionProjects/22.2_Kopierkonstruktor/cmake-build-debug/CMakeFiles/22_2_Kopierkonstruktor.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anuuthomson/ClionProjects/22.1_Konstruktor/MyRectangle.cpp
+iostream
+-
+MyRectangle.h
+/Users/anuuthomson/ClionProjects/22.1_Konstruktor/MyRectangle.h
+
+/Users/anuuthomson/ClionProjects/22.1_Konstruktor/MyRectangle.h
+
+/Users/anuuthomson/ClionProjects/22.1_Konstruktor/main.cpp
+iostream
+-
+MyRectangle.h
+/Users/anuuthomson/ClionProjects/22.1_Konstruktor/MyRectangle.h
+

@@ -1,0 +1,3 @@
+/Users/anuuthomson/ClionProjects/20.2_KlassenTeil2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anuuthomson/ClionProjects/20.2_KlassenTeil2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/anuuthomson/ClionProjects/20.2_KlassenTeil2/cmake-build-debug/CMakeFiles/20_2_KlassenTeil2.dir

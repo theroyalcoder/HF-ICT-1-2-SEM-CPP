@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anuuthomson/ClionProjects/22.2_Kopierkonstruktor/kopierkonstuktorClass.cpp
+kopierkonstuktorClass.h
+/Users/anuuthomson/ClionProjects/22.2_Kopierkonstruktor/kopierkonstuktorClass.h
+
+/Users/anuuthomson/ClionProjects/22.2_Kopierkonstruktor/kopierkonstuktorClass.h
+
+/Users/anuuthomson/ClionProjects/22.2_Kopierkonstruktor/main.cpp
+iostream
+-
+kopierkonstuktorClass.h
+/Users/anuuthomson/ClionProjects/22.2_Kopierkonstruktor/kopierkonstuktorClass.h
+
